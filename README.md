@@ -289,10 +289,12 @@
 
 | Issue Type | Issue | content | Issue Link |
 |---|---|---|---|
-|  **Bug** | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue #1](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/1) |
-| **Help** | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue #2](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/2) |
-|  **Enhancement** | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue #3](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/3) |
-|  **Question** | JWT Token 관리 방식 문의 | Access Token 및 Refresh Token 관리 방식에 대한 기술적 질문 | [Issue #4](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/4) |
+|  **Bug** | Docker ImagePullBackError | Docker 이미지 Pull 실패 및 이미지 다운로드 오류 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/5) | 
+| **Help** | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/2) |
+|  **Enhancement** | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/3) |
+|  **Bug** | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/1) |
+
+
 <br>
 
 ### Issue 관리 규칙
