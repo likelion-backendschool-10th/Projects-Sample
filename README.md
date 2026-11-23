@@ -290,7 +290,7 @@
 | Issue Type | Issue | content | Issue Link |
 |---|---|---|---|
 |  **Bug** | Docker ImagePullBackError | Docker 이미지 Pull 실패 및 이미지 다운로드 오류 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/5) | 
-| **Help** | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/2) |
+| **Help** | React에서 Backend API 연동 문제 해결 도움 요청 | React에서 Spring Boot API를 호출할 때 CORS 오류가 발생 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/2) |
 |  **Enhancement** | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/3) |
 |  **Bug** | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/1) |
 
