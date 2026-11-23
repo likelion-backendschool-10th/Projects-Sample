@@ -88,7 +88,9 @@
 
 > ## 배포 링크
 > 
-> ### [ 배포 링크 - 네이버](https:www.naver.com)
+> ### [배포 링크- 네이버](https://www.naver.com/)
+
+
 ---
 <br>
 
