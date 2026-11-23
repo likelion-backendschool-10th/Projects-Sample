@@ -24,8 +24,8 @@
 | 9 | Skills | 프로젝트 개발에 사용한 언어, 프레임워크, 라이브러리 및 개발 도구 |
 | 10 | 오류 해결 및 기술 이슈 관리 | 개발 과정에서 발생한 오류, 원인 분석, 해결 방법 및 기술적 논의 기록 |
 | 11 | 프로젝트 규칙 | Git 브랜치 전략, Commit Convention, 코드 작성 규칙 및 협업 규칙 |
-| 12 | 데일리 업무 문서 | 일자별 진행 상황, 개인별 작업 내역 및 회의 기록 |
-| 13 | 프로젝트 기획 및 개발 설계 문서 | 요구사항 정의서(SR), 기능 명세서, 화면 설계서, API 명세서 등 |
+| 12 | **중요!!** 데일리 업무 문서 | 일자별 진행 상황, 개인별 작업 내역 및 회의 기록 |
+| 13 | **중요!!** 프로젝트 기획 및 개발 설계 문서 | 요구사항 정의서(SR), 기능 명세서, 화면 설계서, API 명세서 등 |
 
 ###  작성 시 유의사항
 
@@ -290,10 +290,10 @@
 
 | Issue Type | Issue | content | Issue Link |
 |---|---|---|---|
-|  **Bug** | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue #2](https://github.com/daeun-ops/sample-projecit-templates/issues/2) |
-| **Help** | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue #3](https://github.com/daeun-ops/sample-projecit-templates/issues/3) |
-|  **Enhancement** | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue #4](https://github.com/daeun-ops/sample-projecit-templates/issues/4) |
-|  **Question** | JWT Token 관리 방식 문의 | Access Token 및 Refresh Token 관리 방식에 대한 기술적 질문 | [Issue #5](https://github.com/daeun-ops/sample-projecit-templates/issues/5) |
+|  **Bug** | 로그인 API 500 Internal Server Error | 로그인 요청 시 서버 오류 발생 및 원인 분석 | [Issue #1](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/1) |
+| **Help** | React - Backend API 연동 문제 | CORS 오류 및 API 연동 문제 해결 요청 | [Issue #2](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/2) |
+|  **Enhancement** | 게시글 검색 기능 개선 | 검색 필터 및 정렬 기능 추가 요청 | [Issue #3](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/3) |
+|  **Question** | JWT Token 관리 방식 문의 | Access Token 및 Refresh Token 관리 방식에 대한 기술적 질문 | [Issue #4](https://github.com/likelion-backendschool-10th/Projects-Sample/issues/4) |
 <br>
 
 ### Issue 관리 규칙
