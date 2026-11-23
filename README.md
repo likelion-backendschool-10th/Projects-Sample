@@ -9,7 +9,7 @@
 
 
 
-## 프로젝트 개요
+## 1. 프로젝트 개요
 > ### 개발 기간 
 > **YYYY-MM-DD - YYYY-MM-DD**
 <br>
@@ -69,7 +69,7 @@
 <br>
 
 
-##  팀 소개
+##  2. 팀 소개
 
 ### TEAM Naver
 
@@ -86,7 +86,7 @@
 
 
 
-> ## 배포 링크
+> ## 3. 배포 링크
 > 
 > ### [배포 링크- 네이버](https://www.naver.com/)
 
@@ -96,7 +96,7 @@
 
 
 
-> ## 프로젝트 발표 영상 & 발표 문서
+> ## 4. 프로젝트 발표 영상 & 발표 문서
 >
 > ### [ 발표 영상 ](https://m.naver.com/shorts/?seedMediaId=8673FE6E09FC9AEA1D59EA67BC5F286A201F&serviceType=NTV)
 > ### [ 발표 문서 ](https://deview-serving.pstatic.net/v1/files?objectPath=data/deview/session/attach/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB.pdf)
@@ -107,7 +107,7 @@
 
 
 
-## 서비스 소개
+## 5. 서비스 소개
 |   메인 화면 1  |  메인 화면 2  |   소셜 로그인 1   |
 |:--------:|:------:|:--------:|
 | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |   <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" />  | <img width="400" height="187" alt="녹음 2026-11-23 144446" src="https://github.com/user-attachments/assets/9d5a7f66-15f7-442f-bcf4-b8b7e3ec01b2" /> |
@@ -125,7 +125,7 @@
 <br>
 <br>
 
-## WBS 
+## 6. WBS 
 
 | 단계 | 작업 항목 | 세부 작업 내용 | 담당자 | 시작일 | 종료일 | 
 |---|---|---|---|---|---|
@@ -172,14 +172,14 @@
 <br>
 
 
-## ERD 
+## 7. ERD 
 <img width="626" height="385" alt="image" src="https://github.com/user-attachments/assets/2a12ba4a-29cd-4f4c-a5f5-3120182eb0da" />
 
 ---
 <br>
 
 
-## 시스템 아키텍쳐 
+## 8. 시스템 아키텍쳐 
 
 <img src="https://user-images.githubusercontent.com/90237119/215304129-d8006105-cf1c-49c7-a819-4f819dfac523.png"/>
 
@@ -188,7 +188,7 @@
 
 
 
-## Skills
+## 9. Skills
 
 ### Engineering
 
@@ -242,9 +242,9 @@
 
 
 
-## 오류 해결 및 기술 이슈 관리
+## 10. 오류 해결 및 기술 이슈 관리
 
-프로젝트 개발 과정에서 발생하는 오류, 해결이 어려운 문제, 기능 개선 사항 및 기술적 질문을 GitHub Issues를 통해 관리한다.
+프로젝트 개발 과정에서 발생하는 오류, 해결이 어려운 문제, 기능 개선 사항 및 기술적 질문을 GitHub Issues를 통해 관리한다. <br>
 대표 트러블슈팅 2~3건 요약해서 꼭 넣어준다. 
 
 
@@ -278,7 +278,7 @@
 
 
 
-##  프로젝트 규칙
+##  11. 프로젝트 규칙
 
 ### Branch Strategy
 > - main / dev 브랜치 기본 생성 
@@ -351,7 +351,7 @@
 <br>
 
 
-##  데일리 업무 문서
+##  12. 데일리 업무 문서
 
 프로젝트 진행 상황과 팀 내 논의 내용을 데일리로 기록하는 문서이다.
 
@@ -366,7 +366,7 @@
 <br>
 
 
-##  프로젝트 기획 및 개발 설계 문서
+##  13. 프로젝트 기획 및 개발 설계 문서
 
 프로젝트 기획부터 설계, 구현 및 테스트까지 필요한 **최종 필수 산출물** 이다.
 
