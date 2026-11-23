@@ -1,9 +1,8 @@
- ## 프로젝트 SR (Software Requirement) 안내 
+# 프로젝트 SR (Software Requirement) 
 > SR(Software Requirement) 이란 프로젝트에서의 요구되는 것들이 무엇인지를 구체화 및 문서화하는 것을 의미한다.
 >프로젝트에서 구현해야 할 기능에 대해 구성원 전체가 논의하고 기획한 내용을 SR에 작성하도록 한다.
 > 제공한 문서 양식과 및 아래의 READ.MD를 꼭 참고하여 SR을 작성한다.
 ---
-<br>
 <br>
 
 ##  README.md 작성 항목 안내
